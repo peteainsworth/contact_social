@@ -1,0 +1,11 @@
+name = Contact us / Social
+description = A very simple, very light, CSS only Contact us and social links tab.
+core = 7.x
+files[] = contact_social.test
+
+; Information added by drupal.org packaging script on 2011-08-12
+version = "7.x-1.0"
+core = "7.x"
+project = "contact_social"
+datestamp = "1313111816"
+
